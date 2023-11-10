@@ -1,0 +1,22 @@
+.itemListContainer{
+    width: 83%;
+    height: 100vh;
+    background-color: white;
+    float: right;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+.itemListTitle{
+    width: 100%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+.itemCard{
+    height: 200px;
+    width: 150px;
+    border: 1px black solid;
+}
