@@ -8,7 +8,7 @@ export const NavBar = () => {
     <div className='navContainer'>
         <nav className='nav'>
             <div className='logo-div'>
-            <a className='logo' href=""><img src="../assets/img/logo.png" alt="logo compumundohipermegared"/></a>
+            <a href=""><img className='logo' src="/src/assets/img/logo.png" alt="logo compumundohipermegared"/></a>
             </div>
             <ul className='ul'>
                 <li className='li'><a href=""><button className='buttonMenu'>PC's Armadas</button></a></li>
